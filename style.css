@@ -1,0 +1,50 @@
+body {background-color: orange;}
+h1{color:gray;}
+h2{color:red;}
+li{color:white;}
+p{color:green;}
+
+table{background-color: pink;}
+ul{background-color: blue;}
+
+table, tr, td, ul{border: 2px solid black;}
+tr:hover {background-color: yellow}
+
+h1{font-family:"Verdana";
+   font-style:underline;
+   font-style:bold;
+   font-size: 30px;}
+   
+h2{font-family:"Times New Roman";
+   font-style:bold;
+   font-size: 25px;}
+ 
+li{font-family: "Arial";
+   font-style:bold;
+   font-size: 16px;}
+   
+p{font-family:"Calibri Body";
+   font-style:italic;
+   font-size: 20px;}
+
+img {border: 2px solid black;
+    border-radius:12px;
+	width: 150px;
+    display: block;	
+    padding: 2px;
+	margin:left;
+    opacity: 0.9;}
+	
+	
+#imgTema {border: 2px solid black;
+border-radius: 12px;
+width: 150px;
+display: block;
+margin: auto;
+opacity: 0.8;
+}
+
+#titluTema { font-family: "Arial";
+font-style: italic;
+font-size: 52px;
+color:pink;}
